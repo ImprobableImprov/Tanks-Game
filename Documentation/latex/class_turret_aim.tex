@@ -1,0 +1,250 @@
+\hypertarget{class_turret_aim}{}\section{Turret\+Aim Class Reference}
+\label{class_turret_aim}\index{Turret\+Aim@{Turret\+Aim}}
+
+
+Inheritance diagram for Turret\+Aim\+:
+\nopagebreak
+\begin{figure}[H]
+\begin{center}
+\leavevmode
+\includegraphics[width=163pt]{class_turret_aim__inherit__graph}
+\end{center}
+\end{figure}
+\subsection*{Public Member Functions}
+\begin{DoxyCompactItemize}
+\item 
+void \hyperlink{class_turret_aim_a0676e7bfdf3631856418337b19e9224d}{Launch} ()
+\end{DoxyCompactItemize}
+\subsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+float \hyperlink{class_turret_aim_ab6d11817dfff12c200f30a5b413922e1}{Elevation\+Speed} = 30f
+\item 
+float \hyperlink{class_turret_aim_abf4a6733d71b76f4c4c8e51fac0d979b}{Max\+Elevation} = 60f
+\item 
+float \hyperlink{class_turret_aim_abd337edc783d31d7c2eee320d8fa9934}{Max\+Depression} = 5f
+\item 
+float \hyperlink{class_turret_aim_a0d95f826ffb966894820a781ea3fc04c}{Traverse\+Speed} = 60f
+\item 
+float \hyperlink{class_turret_aim_af7cb89dae61664a964d7c4c036b93790}{Left\+Limit} = 120f
+\item 
+float \hyperlink{class_turret_aim_aa7ad1afe41386cc3b01ec42e150e767d}{Right\+Limit} = 120f
+\item 
+bool \hyperlink{class_turret_aim_aeda88b1a392e0ce59baf5720a641a0d5}{Is\+Idle} = false
+\item 
+Vector3 \hyperlink{class_turret_aim_a194f5413aa939b8cbb8a5a9edf2c8660}{Aim\+Position} = Vector3.\+zero
+\item 
+bool \hyperlink{class_turret_aim_abaf205533086a821c7d21c405134d1c0}{Draw\+Debug\+Ray} = true
+\item 
+bool \hyperlink{class_turret_aim_a58ca0c5ce58f7a29b44263efc23cc14f}{Draw\+Debug\+Arcs} = false
+\item 
+float \hyperlink{class_turret_aim_a37ec381a26ff942b851d343cad70aae6}{launch\+Force}
+\end{DoxyCompactItemize}
+\subsection*{Properties}
+\begin{DoxyCompactItemize}
+\item 
+bool \hyperlink{class_turret_aim_ac4f7699c9a91fa48dd95b2f08cf03fd6}{Has\+Limited\+Traverse}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\begin{DoxyCompactList}\small\item\em True when the turret cannot rotate freely in the horizontal axis. \end{DoxyCompactList}\item 
+bool \hyperlink{class_turret_aim_a1b0a3fd8f069d2364b60591ab3f57e26}{Is\+Turret\+At\+Rest}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\begin{DoxyCompactList}\small\item\em True when the turret is idle and at its resting position. \end{DoxyCompactList}\item 
+bool \hyperlink{class_turret_aim_a850d222091cdb64216aa2edc1297a1ba}{Is\+Aimed}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\begin{DoxyCompactList}\small\item\em True when the turret is aimed at the given \hyperlink{class_turret_aim_a194f5413aa939b8cbb8a5a9edf2c8660}{Aim\+Position}. When the turret is idle, this is never true. \end{DoxyCompactList}\item 
+float \hyperlink{class_turret_aim_ae9892ac1ac8c471d11d9a99c2849542c}{Angle\+To\+Target}\hspace{0.3cm}{\ttfamily  \mbox{[}get\mbox{]}}
+\begin{DoxyCompactList}\small\item\em Angle in degress to the given \hyperlink{class_turret_aim_a194f5413aa939b8cbb8a5a9edf2c8660}{Aim\+Position}. When the turret is idle, the angle reports 999. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\subsection{Detailed Description}
+
+
+Definition at line 5 of file Turret\+Aim.\+cs.
+
+
+
+\subsection{Member Function Documentation}
+\mbox{\Hypertarget{class_turret_aim_a0676e7bfdf3631856418337b19e9224d}\label{class_turret_aim_a0676e7bfdf3631856418337b19e9224d}} 
+\index{Turret\+Aim@{Turret\+Aim}!Launch@{Launch}}
+\index{Launch@{Launch}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{Launch()}{Launch()}}
+{\footnotesize\ttfamily void Turret\+Aim.\+Launch (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Definition at line 117 of file Turret\+Aim.\+cs.
+
+
+
+\subsection{Member Data Documentation}
+\mbox{\Hypertarget{class_turret_aim_a194f5413aa939b8cbb8a5a9edf2c8660}\label{class_turret_aim_a194f5413aa939b8cbb8a5a9edf2c8660}} 
+\index{Turret\+Aim@{Turret\+Aim}!Aim\+Position@{Aim\+Position}}
+\index{Aim\+Position@{Aim\+Position}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{Aim\+Position}{AimPosition}}
+{\footnotesize\ttfamily Vector3 Turret\+Aim.\+Aim\+Position = Vector3.\+zero}
+
+
+
+Definition at line 24 of file Turret\+Aim.\+cs.
+
+\mbox{\Hypertarget{class_turret_aim_a58ca0c5ce58f7a29b44263efc23cc14f}\label{class_turret_aim_a58ca0c5ce58f7a29b44263efc23cc14f}} 
+\index{Turret\+Aim@{Turret\+Aim}!Draw\+Debug\+Arcs@{Draw\+Debug\+Arcs}}
+\index{Draw\+Debug\+Arcs@{Draw\+Debug\+Arcs}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{Draw\+Debug\+Arcs}{DrawDebugArcs}}
+{\footnotesize\ttfamily bool Turret\+Aim.\+Draw\+Debug\+Arcs = false}
+
+
+
+Definition at line 30 of file Turret\+Aim.\+cs.
+
+\mbox{\Hypertarget{class_turret_aim_abaf205533086a821c7d21c405134d1c0}\label{class_turret_aim_abaf205533086a821c7d21c405134d1c0}} 
+\index{Turret\+Aim@{Turret\+Aim}!Draw\+Debug\+Ray@{Draw\+Debug\+Ray}}
+\index{Draw\+Debug\+Ray@{Draw\+Debug\+Ray}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{Draw\+Debug\+Ray}{DrawDebugRay}}
+{\footnotesize\ttfamily bool Turret\+Aim.\+Draw\+Debug\+Ray = true}
+
+
+
+Definition at line 29 of file Turret\+Aim.\+cs.
+
+\mbox{\Hypertarget{class_turret_aim_ab6d11817dfff12c200f30a5b413922e1}\label{class_turret_aim_ab6d11817dfff12c200f30a5b413922e1}} 
+\index{Turret\+Aim@{Turret\+Aim}!Elevation\+Speed@{Elevation\+Speed}}
+\index{Elevation\+Speed@{Elevation\+Speed}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{Elevation\+Speed}{ElevationSpeed}}
+{\footnotesize\ttfamily float Turret\+Aim.\+Elevation\+Speed = 30f}
+
+
+
+Definition at line 12 of file Turret\+Aim.\+cs.
+
+\mbox{\Hypertarget{class_turret_aim_aeda88b1a392e0ce59baf5720a641a0d5}\label{class_turret_aim_aeda88b1a392e0ce59baf5720a641a0d5}} 
+\index{Turret\+Aim@{Turret\+Aim}!Is\+Idle@{Is\+Idle}}
+\index{Is\+Idle@{Is\+Idle}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{Is\+Idle}{IsIdle}}
+{\footnotesize\ttfamily bool Turret\+Aim.\+Is\+Idle = false}
+
+
+
+Definition at line 23 of file Turret\+Aim.\+cs.
+
+\mbox{\Hypertarget{class_turret_aim_a37ec381a26ff942b851d343cad70aae6}\label{class_turret_aim_a37ec381a26ff942b851d343cad70aae6}} 
+\index{Turret\+Aim@{Turret\+Aim}!launch\+Force@{launch\+Force}}
+\index{launch\+Force@{launch\+Force}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{launch\+Force}{launchForce}}
+{\footnotesize\ttfamily float Turret\+Aim.\+launch\+Force}
+
+
+
+Definition at line 46 of file Turret\+Aim.\+cs.
+
+\mbox{\Hypertarget{class_turret_aim_af7cb89dae61664a964d7c4c036b93790}\label{class_turret_aim_af7cb89dae61664a964d7c4c036b93790}} 
+\index{Turret\+Aim@{Turret\+Aim}!Left\+Limit@{Left\+Limit}}
+\index{Left\+Limit@{Left\+Limit}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{Left\+Limit}{LeftLimit}}
+{\footnotesize\ttfamily float Turret\+Aim.\+Left\+Limit = 120f}
+
+
+
+Definition at line 19 of file Turret\+Aim.\+cs.
+
+\mbox{\Hypertarget{class_turret_aim_abd337edc783d31d7c2eee320d8fa9934}\label{class_turret_aim_abd337edc783d31d7c2eee320d8fa9934}} 
+\index{Turret\+Aim@{Turret\+Aim}!Max\+Depression@{Max\+Depression}}
+\index{Max\+Depression@{Max\+Depression}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{Max\+Depression}{MaxDepression}}
+{\footnotesize\ttfamily float Turret\+Aim.\+Max\+Depression = 5f}
+
+
+
+Definition at line 14 of file Turret\+Aim.\+cs.
+
+\mbox{\Hypertarget{class_turret_aim_abf4a6733d71b76f4c4c8e51fac0d979b}\label{class_turret_aim_abf4a6733d71b76f4c4c8e51fac0d979b}} 
+\index{Turret\+Aim@{Turret\+Aim}!Max\+Elevation@{Max\+Elevation}}
+\index{Max\+Elevation@{Max\+Elevation}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{Max\+Elevation}{MaxElevation}}
+{\footnotesize\ttfamily float Turret\+Aim.\+Max\+Elevation = 60f}
+
+
+
+Definition at line 13 of file Turret\+Aim.\+cs.
+
+\mbox{\Hypertarget{class_turret_aim_aa7ad1afe41386cc3b01ec42e150e767d}\label{class_turret_aim_aa7ad1afe41386cc3b01ec42e150e767d}} 
+\index{Turret\+Aim@{Turret\+Aim}!Right\+Limit@{Right\+Limit}}
+\index{Right\+Limit@{Right\+Limit}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{Right\+Limit}{RightLimit}}
+{\footnotesize\ttfamily float Turret\+Aim.\+Right\+Limit = 120f}
+
+
+
+Definition at line 20 of file Turret\+Aim.\+cs.
+
+\mbox{\Hypertarget{class_turret_aim_a0d95f826ffb966894820a781ea3fc04c}\label{class_turret_aim_a0d95f826ffb966894820a781ea3fc04c}} 
+\index{Turret\+Aim@{Turret\+Aim}!Traverse\+Speed@{Traverse\+Speed}}
+\index{Traverse\+Speed@{Traverse\+Speed}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{Traverse\+Speed}{TraverseSpeed}}
+{\footnotesize\ttfamily float Turret\+Aim.\+Traverse\+Speed = 60f}
+
+
+
+Definition at line 17 of file Turret\+Aim.\+cs.
+
+
+
+\subsection{Property Documentation}
+\mbox{\Hypertarget{class_turret_aim_ae9892ac1ac8c471d11d9a99c2849542c}\label{class_turret_aim_ae9892ac1ac8c471d11d9a99c2849542c}} 
+\index{Turret\+Aim@{Turret\+Aim}!Angle\+To\+Target@{Angle\+To\+Target}}
+\index{Angle\+To\+Target@{Angle\+To\+Target}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{Angle\+To\+Target}{AngleToTarget}}
+{\footnotesize\ttfamily float Turret\+Aim.\+Angle\+To\+Target\hspace{0.3cm}{\ttfamily [get]}}
+
+
+
+Angle in degress to the given \hyperlink{class_turret_aim_a194f5413aa939b8cbb8a5a9edf2c8660}{Aim\+Position}. When the turret is idle, the angle reports 999. 
+
+
+
+Definition at line 68 of file Turret\+Aim.\+cs.
+
+\mbox{\Hypertarget{class_turret_aim_ac4f7699c9a91fa48dd95b2f08cf03fd6}\label{class_turret_aim_ac4f7699c9a91fa48dd95b2f08cf03fd6}} 
+\index{Turret\+Aim@{Turret\+Aim}!Has\+Limited\+Traverse@{Has\+Limited\+Traverse}}
+\index{Has\+Limited\+Traverse@{Has\+Limited\+Traverse}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{Has\+Limited\+Traverse}{HasLimitedTraverse}}
+{\footnotesize\ttfamily bool Turret\+Aim.\+Has\+Limited\+Traverse\hspace{0.3cm}{\ttfamily [get]}}
+
+
+
+True when the turret cannot rotate freely in the horizontal axis. 
+
+
+
+Definition at line 51 of file Turret\+Aim.\+cs.
+
+\mbox{\Hypertarget{class_turret_aim_a850d222091cdb64216aa2edc1297a1ba}\label{class_turret_aim_a850d222091cdb64216aa2edc1297a1ba}} 
+\index{Turret\+Aim@{Turret\+Aim}!Is\+Aimed@{Is\+Aimed}}
+\index{Is\+Aimed@{Is\+Aimed}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{Is\+Aimed}{IsAimed}}
+{\footnotesize\ttfamily bool Turret\+Aim.\+Is\+Aimed\hspace{0.3cm}{\ttfamily [get]}}
+
+
+
+True when the turret is aimed at the given \hyperlink{class_turret_aim_a194f5413aa939b8cbb8a5a9edf2c8660}{Aim\+Position}. When the turret is idle, this is never true. 
+
+
+
+Definition at line 62 of file Turret\+Aim.\+cs.
+
+\mbox{\Hypertarget{class_turret_aim_a1b0a3fd8f069d2364b60591ab3f57e26}\label{class_turret_aim_a1b0a3fd8f069d2364b60591ab3f57e26}} 
+\index{Turret\+Aim@{Turret\+Aim}!Is\+Turret\+At\+Rest@{Is\+Turret\+At\+Rest}}
+\index{Is\+Turret\+At\+Rest@{Is\+Turret\+At\+Rest}!Turret\+Aim@{Turret\+Aim}}
+\subsubsection{\texorpdfstring{Is\+Turret\+At\+Rest}{IsTurretAtRest}}
+{\footnotesize\ttfamily bool Turret\+Aim.\+Is\+Turret\+At\+Rest\hspace{0.3cm}{\ttfamily [get]}}
+
+
+
+True when the turret is idle and at its resting position. 
+
+
+
+Definition at line 56 of file Turret\+Aim.\+cs.
+
+
+
+The documentation for this class was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+C\+:/\+Users/travi/\+Desktop/workspace/\+O\+D\+U/\+M\+S\+I\+M408 -\/ Intro to Game Development/\+Program4/\+My\+Tank\+Game/\+Assets/\+Scripts/\+Tank \& Turret/\hyperlink{_turret_aim_8cs}{Turret\+Aim.\+cs}\end{DoxyCompactItemize}

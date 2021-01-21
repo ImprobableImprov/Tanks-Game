@@ -1,0 +1,470 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraControl"><param name="Local" value="class_camera_control.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SetStartPositionAndSize"><param name="Local" value="class_camera_control.html#ae9cc28818b70f48ef7fbb8cbad8e0d5f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_DampTime"><param name="Local" value="class_camera_control.html#addb68bd79aebb97a8611c7cf063ad8cf"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MinSize"><param name="Local" value="class_camera_control.html#a71b56d132918e2c7ff36d1a273eac03b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ScreenEdgeBuffer"><param name="Local" value="class_camera_control.html#aabb1255be1a2f913fd69db9c75d3be5d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Targets"><param name="Local" value="class_camera_control.html#af7c531a124be556f16f7b531ec588037"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraFollowControl"><param name="Local" value="class_camera_follow_control.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraSwitcher"><param name="Local" value="class_camera_switcher.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="overhead"><param name="Local" value="class_camera_switcher.html#a0d569047675f3c1f3f282171dc5ed434"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="GameManager"><param name="Local" value="class_game_manager.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_EndDelay"><param name="Local" value="class_game_manager.html#a15a5dfa5777c7d7ff02f31bb86d3e412"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_LargeTurretPrefab"><param name="Local" value="class_game_manager.html#a24b78f6d931300efcb7d6eda6b0daddb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_LargeTurrets"><param name="Local" value="class_game_manager.html#a002f3308e2f113a89d091039744d2f91"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MediumTurretPrefab"><param name="Local" value="class_game_manager.html#aed7f73862c4a1e9758b57a87976ae22c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MediumTurrets"><param name="Local" value="class_game_manager.html#ac8a75ae671af94e8927aef7255db8bc7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MessageText"><param name="Local" value="class_game_manager.html#ab48c44cba8cabaacd8b06a5a9f46c9ee"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_NumRoundsToWin"><param name="Local" value="class_game_manager.html#ad6d2c86bc87403f661a7d54c8f5e2983"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SmallTurretPrefab"><param name="Local" value="class_game_manager.html#a596a0017adefe542ef4a42281c73a0e0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SmallTurrets"><param name="Local" value="class_game_manager.html#a269b3c5623b99271b0b27ba8f6cfdd74"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_StartDelay"><param name="Local" value="class_game_manager.html#abaa4f38b4babf7616dbf9530488b8c16"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_TankPrefab"><param name="Local" value="class_game_manager.html#abd37cb1a8777348319275ea8d59f7879"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Tanks"><param name="Local" value="class_game_manager.html#ad3c238e7c632868e7eb9c3feaae67647"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MusicManager"><param name="Local" value="class_music_manager.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="audioSource"><param name="Local" value="class_music_manager.html#a1c16d18fde1107fe755075dc84b92803"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="clips"><param name="Local" value="class_music_manager.html#a148545cd355044db2b30aae30b678e95"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ShellExplosion"><param name="Local" value="class_shell_explosion.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_damage"><param name="Local" value="class_shell_explosion.html#aa630b14bfc32cd63e6c73def71aaeea5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionAudio"><param name="Local" value="class_shell_explosion.html#a71d680ca98a5c785614d96677dcc1017"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionForce"><param name="Local" value="class_shell_explosion.html#aedf8145b8210b8be0bd077eab2adb184"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionParticles"><param name="Local" value="class_shell_explosion.html#adfe43cddc71e351e3a44cc6a0e626de4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionRadius"><param name="Local" value="class_shell_explosion.html#a17648fa0f429b6dab061971065fe0344"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MaxLifeTime"><param name="Local" value="class_shell_explosion.html#a6a3f3ce0baaa7342c0a455f0d85a5cae"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_TankMask"><param name="Local" value="class_shell_explosion.html#a7836a8802592e5b16960749293b7e8a1"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ShellExplosion1"><param name="Local" value="class_shell_explosion1.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_damage"><param name="Local" value="class_shell_explosion1.html#ac39941591ebb42b5ece7b3b37ebecfe7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionAudio"><param name="Local" value="class_shell_explosion1.html#aaad297566e8ff87ceb574d2e43f1cf50"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionForce"><param name="Local" value="class_shell_explosion1.html#a77dc688a7e90907d2e0427e0d65b594a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionParticles"><param name="Local" value="class_shell_explosion1.html#aa5b384c6b1d733b01945980e5807ae0f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionRadius"><param name="Local" value="class_shell_explosion1.html#ac825ac3c7528234f840fd532f5c87fd8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MaxLifeTime"><param name="Local" value="class_shell_explosion1.html#a99238e1ac18a5fe6ea4e18dff061d380"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_TankMask"><param name="Local" value="class_shell_explosion1.html#ad67b4312d1bd3ad312cb1ea5a769d704"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleController"><param name="Local" value="class_simple_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GetInput"><param name="Local" value="class_simple_controller.html#a70c61e7f2a95c10edd81fd9eed5b85bb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="backWheelRadius"><param name="Local" value="class_simple_controller.html#ae11fe8f1c7ae299735498f8152993b3e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="frontLeftT"><param name="Local" value="class_simple_controller.html#a3e884631e0b2702aed7280aeb7d1318b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="frontWheelRadius"><param name="Local" value="class_simple_controller.html#a90ca5274486d08cecaf1d0d8097daf21"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_EngineDriving"><param name="Local" value="class_simple_controller.html#a0e41064917358dda7eb438dc8cde9060"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_EngineIdling"><param name="Local" value="class_simple_controller.html#a44c33c316246a4ff3ff87190e2c329f2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MovementAudio"><param name="Local" value="class_simple_controller.html#a800c2ad3e389d8844b398cc5f312f8f1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_PitchRange"><param name="Local" value="class_simple_controller.html#aa13a1c40a96cded6e1e1cd6e2a9954b9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="maxCannonAngle"><param name="Local" value="class_simple_controller.html#a31ddc11100b66f86de5c65756606433c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="maxMountRotation"><param name="Local" value="class_simple_controller.html#ab02ed3d9fa3ae79c6e6f2324a957dafb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="maxSpeed"><param name="Local" value="class_simple_controller.html#a1a32c8c77aa8e6e0a8724becd665013a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="maxSteerAngle"><param name="Local" value="class_simple_controller.html#ac22f2de2d36b348b224672033b211a19"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="mount"><param name="Local" value="class_simple_controller.html#ab8cd8da06ca72dac86817c25830523aa"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="speed"><param name="Local" value="class_simple_controller.html#a8146288dd059782ff659eee5194c078e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="tank"><param name="Local" value="class_simple_controller.html#a36ea93e471504da2007474dd9cb9c824"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="turnSpeed"><param name="Local" value="class_simple_controller.html#a481c0a24a21c34c2190ca128b4d87cfd"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TankHealth"><param name="Local" value="class_tank_health.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TakeDamage"><param name="Local" value="class_tank_health.html#a5b4692ca0cdcd290c19819b612a1fb6a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionPrefab"><param name="Local" value="class_tank_health.html#a5ef8047ad181f98b49f021dcb2a79eff"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_FillImage"><param name="Local" value="class_tank_health.html#afe7189f28749f37650eaee5bbe1e9569"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_FullHealthColor"><param name="Local" value="class_tank_health.html#a42ae2cdb01a927ac318e292a408ee530"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Slider"><param name="Local" value="class_tank_health.html#a4b41b54ea2d3515d6c258f2dfa352d91"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_StartingHealth"><param name="Local" value="class_tank_health.html#a61f61a506cd75b2382f40c87f376f547"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ZeroHealthColor"><param name="Local" value="class_tank_health.html#aa0c52687011855683ffb71b787f159fb"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TankManager"><param name="Local" value="class_tank_manager.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DisableControl"><param name="Local" value="class_tank_manager.html#a215f539b28fcd32c07f831a28533386d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="EnableControl"><param name="Local" value="class_tank_manager.html#ad904353e6e7eeeaf9bde2092b1e87b66"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Reset"><param name="Local" value="class_tank_manager.html#a89675bc32c6dd907f68f7421a7c6e8e2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Setup"><param name="Local" value="class_tank_manager.html#adfea056ff87cf9e231b8517424523587"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ColoredPlayerText"><param name="Local" value="class_tank_manager.html#a57aeeff3cac93ea8ea026a41271e60a0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Instance"><param name="Local" value="class_tank_manager.html#a16fe43d5057c1b812638a89fde1aa225"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_PlayerColor"><param name="Local" value="class_tank_manager.html#a00f8ea8c026bc2be1215255c572ce24c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_PlayerNumber"><param name="Local" value="class_tank_manager.html#afdf9037848c7f6194f835381752edc3f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SpawnPoint"><param name="Local" value="class_tank_manager.html#a0a19fbc586bdd84486db536fbe25f61a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Wins"><param name="Local" value="class_tank_manager.html#a87305e8bf77b24464fb5bfc924a1c85e"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TankMovement"><param name="Local" value="class_tank_movement.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_EngineDriving"><param name="Local" value="class_tank_movement.html#a1f8950f3ace7c6eb9db3245e56a3e242"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_EngineIdling"><param name="Local" value="class_tank_movement.html#afd7b9063830e3f36586d8f65ce9e9864"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_isGrounded"><param name="Local" value="class_tank_movement.html#aabbb207575a9a7e1402f8dedfe57a2ae"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MaxRay"><param name="Local" value="class_tank_movement.html#a127489016583e74eba8e51855d52140f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MaxWheelAngle"><param name="Local" value="class_tank_movement.html#aa00410cb9946e3d519e7eb0c27a3f71e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MinWheelAngle"><param name="Local" value="class_tank_movement.html#a272f5b92b7350a9ad9f45f5bd7fa873e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MinWheelSpeed"><param name="Local" value="class_tank_movement.html#ab396d17831baf3a1f26d894b6c972595"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MovementAudio"><param name="Local" value="class_tank_movement.html#adeb10deeb3d19a4e09a373009472d30d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_PitchRange"><param name="Local" value="class_tank_movement.html#ac40fed4b4da6dfb71113b1fe0061c251"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Speed"><param name="Local" value="class_tank_movement.html#a946b8dddff1ced5a2bc6e2c81734c9a9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Torque"><param name="Local" value="class_tank_movement.html#a91715c98a7e32de422b88eb6d47f7b34"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_TurnSpeed"><param name="Local" value="class_tank_movement.html#a3d4a37dc23ba03bcd56c6272213e81e1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_W_BL"><param name="Local" value="class_tank_movement.html#a4937ea53208a0c13fb66e10be5ddea1e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_W_BR"><param name="Local" value="class_tank_movement.html#acb48d092541024d69905b0d29400b0ac"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_W_FL"><param name="Local" value="class_tank_movement.html#ab0123b63cc13e4df1e9012b797b1f6ae"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_W_FR"><param name="Local" value="class_tank_movement.html#ab9a83a1b293c87eacedd96ab8ecc6c97"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Wheel_BL"><param name="Local" value="class_tank_movement.html#a8cdcf38aa1a90dd677203e3c20d77dd5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Wheel_BR"><param name="Local" value="class_tank_movement.html#a2502e9dc69516fb41e8781563c2d1cbe"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Wheel_FL"><param name="Local" value="class_tank_movement.html#ad429eeb7e51260ede34edd1497a5e746"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Wheel_FR"><param name="Local" value="class_tank_movement.html#ac1530da9ca85a2fc03ad0e157779b277"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TankShooting"><param name="Local" value="class_tank_shooting.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_FireClip"><param name="Local" value="class_tank_shooting.html#a32f4525a7cb238b5684e8bcf3dca24fb"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_FireTransform"><param name="Local" value="class_tank_shooting.html#a11258331a4d05472ffc508152f8e10e0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MaxChargeTime"><param name="Local" value="class_tank_shooting.html#af8d76f24ef06557eacf3d80cae349dee"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MaxLaunchForce"><param name="Local" value="class_tank_shooting.html#aec0f5624d699ed4a0c7f8b54a88fc1c7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MinLaunchForce"><param name="Local" value="class_tank_shooting.html#ae01a2b150c6391d6f9bdf626ee7e273b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_PlayerNumber"><param name="Local" value="class_tank_shooting.html#afbdc9693b332517975e952436c04b6a0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Shell"><param name="Local" value="class_tank_shooting.html#ab574880baae316f960a2711a3f357001"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ShootingAudio"><param name="Local" value="class_tank_shooting.html#a7d8d764d8c953938735573157284ac6a"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TurretAim"><param name="Local" value="class_turret_aim.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Launch"><param name="Local" value="class_turret_aim.html#a0676e7bfdf3631856418337b19e9224d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AimPosition"><param name="Local" value="class_turret_aim.html#a194f5413aa939b8cbb8a5a9edf2c8660"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DrawDebugArcs"><param name="Local" value="class_turret_aim.html#a58ca0c5ce58f7a29b44263efc23cc14f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DrawDebugRay"><param name="Local" value="class_turret_aim.html#abaf205533086a821c7d21c405134d1c0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ElevationSpeed"><param name="Local" value="class_turret_aim.html#ab6d11817dfff12c200f30a5b413922e1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IsIdle"><param name="Local" value="class_turret_aim.html#aeda88b1a392e0ce59baf5720a641a0d5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="launchForce"><param name="Local" value="class_turret_aim.html#a37ec381a26ff942b851d343cad70aae6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeftLimit"><param name="Local" value="class_turret_aim.html#af7cb89dae61664a964d7c4c036b93790"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MaxDepression"><param name="Local" value="class_turret_aim.html#abd337edc783d31d7c2eee320d8fa9934"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MaxElevation"><param name="Local" value="class_turret_aim.html#abf4a6733d71b76f4c4c8e51fac0d979b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="RightLimit"><param name="Local" value="class_turret_aim.html#aa7ad1afe41386cc3b01ec42e150e767d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TraverseSpeed"><param name="Local" value="class_turret_aim.html#a0d95f826ffb966894820a781ea3fc04c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AngleToTarget"><param name="Local" value="class_turret_aim.html#ae9892ac1ac8c471d11d9a99c2849542c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="HasLimitedTraverse"><param name="Local" value="class_turret_aim.html#ac4f7699c9a91fa48dd95b2f08cf03fd6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IsAimed"><param name="Local" value="class_turret_aim.html#a850d222091cdb64216aa2edc1297a1ba"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="IsTurretAtRest"><param name="Local" value="class_turret_aim.html#a1b0a3fd8f069d2364b60591ab3f57e26"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TurretController"><param name="Local" value="class_turret_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TargetPoint"><param name="Local" value="class_turret_controller.html#ac7b9843264700d7841aa47017ccc494e"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="UIDirectionControl"><param name="Local" value="class_u_i_direction_control.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="m_UseRelativeRotation"><param name="Local" value="class_u_i_direction_control.html#a219ec5565829d998edb99068ce19c49c"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="UIFollowCamera"><param name="Local" value="class_u_i_follow_camera.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="playerCam"><param name="Local" value="class_u_i_follow_camera.html#abd70aa1abb4acc961761ab0116b8f3fc"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="target"><param name="Local" value="class_u_i_follow_camera.html#a286876284df5954c8be56bea0bb075f7"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MonoBehaviour"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraControl"><param name="Local" value="class_camera_control.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraFollowControl"><param name="Local" value="class_camera_follow_control.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraSwitcher"><param name="Local" value="class_camera_switcher.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="GameManager"><param name="Local" value="class_game_manager.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="MusicManager"><param name="Local" value="class_music_manager.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ShellExplosion"><param name="Local" value="class_shell_explosion.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="ShellExplosion1"><param name="Local" value="class_shell_explosion1.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleController"><param name="Local" value="class_simple_controller.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TankHealth"><param name="Local" value="class_tank_health.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TankMovement"><param name="Local" value="class_tank_movement.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TankShooting"><param name="Local" value="class_tank_shooting.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TurretAim"><param name="Local" value="class_turret_aim.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="TurretController"><param name="Local" value="class_turret_controller.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UIDirectionControl"><param name="Local" value="class_u_i_direction_control.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="UIFollowCamera"><param name="Local" value="class_u_i_follow_camera.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="TankManager"><param name="Local" value="class_tank_manager.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="functions_prop.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Users"><param name="Local" value="dir_d522931ffa1371640980b621734a4381.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="travi"><param name="Local" value="dir_ae28ef35a7a6c3d3278e874fe2f34b94.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Desktop"><param name="Local" value="dir_02d503f3dd3c1bb4ffe83e9bd10656fd.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="workspace"><param name="Local" value="dir_8a1bc31a93303b59283a95aa4cd5479c.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ODU"><param name="Local" value="dir_872dbfa67a6925ba04d44ff35e490a49.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="MSIM408 - Intro to Game Development"><param name="Local" value="dir_f1511e1a0d3d3c2b3f4ed19df7e6c537.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Program4"><param name="Local" value="dir_72f19b22a0a8f92b2a87742c200332b2.html"><param name="ImageNumber" value="1"></OBJECT>
+                  <UL>
+                  <LI><OBJECT type="text/sitemap"><param name="Name" value="MyTankGame"><param name="Local" value="dir_bbd215540fa7e0668cab15dddd90f6d0.html"><param name="ImageNumber" value="1"></OBJECT>
+                    <UL>
+                    <LI><OBJECT type="text/sitemap"><param name="Name" value="Assets"><param name="Local" value="dir_78c0a72d42918e7cc798634a45d74714.html"><param name="ImageNumber" value="1"></OBJECT>
+                      <UL>
+                      <LI><OBJECT type="text/sitemap"><param name="Name" value="Scripts"><param name="Local" value="dir_b8706e18a49888433659eb6256f4b195.html"><param name="ImageNumber" value="1"></OBJECT>
+                        <UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="Camera"><param name="Local" value="dir_58005e89ecc671e65edb4a550853ea17.html"><param name="ImageNumber" value="1"></OBJECT>
+                          <UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraControl.cs"><param name="Local" value="_camera_control_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraControl"><param name="Local" value="class_camera_control.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="SetStartPositionAndSize"><param name="Local" value="class_camera_control.html#ae9cc28818b70f48ef7fbb8cbad8e0d5f"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_DampTime"><param name="Local" value="class_camera_control.html#addb68bd79aebb97a8611c7cf063ad8cf"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MinSize"><param name="Local" value="class_camera_control.html#a71b56d132918e2c7ff36d1a273eac03b"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ScreenEdgeBuffer"><param name="Local" value="class_camera_control.html#aabb1255be1a2f913fd69db9c75d3be5d"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Targets"><param name="Local" value="class_camera_control.html#af7c531a124be556f16f7b531ec588037"><param name="ImageNumber" value="11"></OBJECT>
+                              </UL>
+                            </UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraFollowControl.cs"><param name="Local" value="_camera_follow_control_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraFollowControl"><param name="Local" value="class_camera_follow_control.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              </UL>
+                            </UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraSwitcher.cs"><param name="Local" value="_camera_switcher_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="CameraSwitcher"><param name="Local" value="class_camera_switcher.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="overhead"><param name="Local" value="class_camera_switcher.html#a0d569047675f3c1f3f282171dc5ed434"><param name="ImageNumber" value="11"></OBJECT>
+                              </UL>
+                            </UL>
+                          </UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="Managers"><param name="Local" value="dir_be03e69b7c55a2b34ba868c88f91228c.html"><param name="ImageNumber" value="1"></OBJECT>
+                          <UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="GameManager.cs"><param name="Local" value="_game_manager_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="GameManager"><param name="Local" value="class_game_manager.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_EndDelay"><param name="Local" value="class_game_manager.html#a15a5dfa5777c7d7ff02f31bb86d3e412"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_LargeTurretPrefab"><param name="Local" value="class_game_manager.html#a24b78f6d931300efcb7d6eda6b0daddb"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_LargeTurrets"><param name="Local" value="class_game_manager.html#a002f3308e2f113a89d091039744d2f91"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MediumTurretPrefab"><param name="Local" value="class_game_manager.html#aed7f73862c4a1e9758b57a87976ae22c"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MediumTurrets"><param name="Local" value="class_game_manager.html#ac8a75ae671af94e8927aef7255db8bc7"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MessageText"><param name="Local" value="class_game_manager.html#ab48c44cba8cabaacd8b06a5a9f46c9ee"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_NumRoundsToWin"><param name="Local" value="class_game_manager.html#ad6d2c86bc87403f661a7d54c8f5e2983"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SmallTurretPrefab"><param name="Local" value="class_game_manager.html#a596a0017adefe542ef4a42281c73a0e0"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SmallTurrets"><param name="Local" value="class_game_manager.html#a269b3c5623b99271b0b27ba8f6cfdd74"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_StartDelay"><param name="Local" value="class_game_manager.html#abaa4f38b4babf7616dbf9530488b8c16"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_TankPrefab"><param name="Local" value="class_game_manager.html#abd37cb1a8777348319275ea8d59f7879"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Tanks"><param name="Local" value="class_game_manager.html#ad3c238e7c632868e7eb9c3feaae67647"><param name="ImageNumber" value="11"></OBJECT>
+                              </UL>
+                            </UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="MusicManager.cs"><param name="Local" value="_music_manager_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="MusicManager"><param name="Local" value="class_music_manager.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="audioSource"><param name="Local" value="class_music_manager.html#a1c16d18fde1107fe755075dc84b92803"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="clips"><param name="Local" value="class_music_manager.html#a148545cd355044db2b30aae30b678e95"><param name="ImageNumber" value="11"></OBJECT>
+                              </UL>
+                            </UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="TankManager.cs"><param name="Local" value="_tank_manager_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="TankManager"><param name="Local" value="class_tank_manager.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="DisableControl"><param name="Local" value="class_tank_manager.html#a215f539b28fcd32c07f831a28533386d"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="EnableControl"><param name="Local" value="class_tank_manager.html#ad904353e6e7eeeaf9bde2092b1e87b66"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="Reset"><param name="Local" value="class_tank_manager.html#a89675bc32c6dd907f68f7421a7c6e8e2"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="Setup"><param name="Local" value="class_tank_manager.html#adfea056ff87cf9e231b8517424523587"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ColoredPlayerText"><param name="Local" value="class_tank_manager.html#a57aeeff3cac93ea8ea026a41271e60a0"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Instance"><param name="Local" value="class_tank_manager.html#a16fe43d5057c1b812638a89fde1aa225"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_PlayerColor"><param name="Local" value="class_tank_manager.html#a00f8ea8c026bc2be1215255c572ce24c"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_PlayerNumber"><param name="Local" value="class_tank_manager.html#afdf9037848c7f6194f835381752edc3f"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_SpawnPoint"><param name="Local" value="class_tank_manager.html#a0a19fbc586bdd84486db536fbe25f61a"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Wins"><param name="Local" value="class_tank_manager.html#a87305e8bf77b24464fb5bfc924a1c85e"><param name="ImageNumber" value="11"></OBJECT>
+                              </UL>
+                            </UL>
+                          </UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="Shell"><param name="Local" value="dir_0f939f80c1447fd7ae8f4bbb695e9e7d.html"><param name="ImageNumber" value="1"></OBJECT>
+                          <UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="ShellExplosion.cs"><param name="Local" value="_shell_explosion_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="ShellExplosion"><param name="Local" value="class_shell_explosion.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_damage"><param name="Local" value="class_shell_explosion.html#aa630b14bfc32cd63e6c73def71aaeea5"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionAudio"><param name="Local" value="class_shell_explosion.html#a71d680ca98a5c785614d96677dcc1017"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionForce"><param name="Local" value="class_shell_explosion.html#aedf8145b8210b8be0bd077eab2adb184"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionParticles"><param name="Local" value="class_shell_explosion.html#adfe43cddc71e351e3a44cc6a0e626de4"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionRadius"><param name="Local" value="class_shell_explosion.html#a17648fa0f429b6dab061971065fe0344"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MaxLifeTime"><param name="Local" value="class_shell_explosion.html#a6a3f3ce0baaa7342c0a455f0d85a5cae"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_TankMask"><param name="Local" value="class_shell_explosion.html#a7836a8802592e5b16960749293b7e8a1"><param name="ImageNumber" value="11"></OBJECT>
+                              </UL>
+                            </UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="ShellExplosion1.cs"><param name="Local" value="_shell_explosion1_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="ShellExplosion1"><param name="Local" value="class_shell_explosion1.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_damage"><param name="Local" value="class_shell_explosion1.html#ac39941591ebb42b5ece7b3b37ebecfe7"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionAudio"><param name="Local" value="class_shell_explosion1.html#aaad297566e8ff87ceb574d2e43f1cf50"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionForce"><param name="Local" value="class_shell_explosion1.html#a77dc688a7e90907d2e0427e0d65b594a"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionParticles"><param name="Local" value="class_shell_explosion1.html#aa5b384c6b1d733b01945980e5807ae0f"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionRadius"><param name="Local" value="class_shell_explosion1.html#ac825ac3c7528234f840fd532f5c87fd8"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MaxLifeTime"><param name="Local" value="class_shell_explosion1.html#a99238e1ac18a5fe6ea4e18dff061d380"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_TankMask"><param name="Local" value="class_shell_explosion1.html#ad67b4312d1bd3ad312cb1ea5a769d704"><param name="ImageNumber" value="11"></OBJECT>
+                              </UL>
+                            </UL>
+                          </UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="Tank &amp; Turret"><param name="Local" value="dir_d05ca2d460f6329fa1fc50d7ea9d0e11.html"><param name="ImageNumber" value="1"></OBJECT>
+                          <UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleController.cs"><param name="Local" value="_simple_controller_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleController"><param name="Local" value="class_simple_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="GetInput"><param name="Local" value="class_simple_controller.html#a70c61e7f2a95c10edd81fd9eed5b85bb"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="backWheelRadius"><param name="Local" value="class_simple_controller.html#ae11fe8f1c7ae299735498f8152993b3e"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="frontLeftT"><param name="Local" value="class_simple_controller.html#a3e884631e0b2702aed7280aeb7d1318b"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="frontWheelRadius"><param name="Local" value="class_simple_controller.html#a90ca5274486d08cecaf1d0d8097daf21"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_EngineDriving"><param name="Local" value="class_simple_controller.html#a0e41064917358dda7eb438dc8cde9060"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_EngineIdling"><param name="Local" value="class_simple_controller.html#a44c33c316246a4ff3ff87190e2c329f2"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MovementAudio"><param name="Local" value="class_simple_controller.html#a800c2ad3e389d8844b398cc5f312f8f1"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_PitchRange"><param name="Local" value="class_simple_controller.html#aa13a1c40a96cded6e1e1cd6e2a9954b9"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="maxCannonAngle"><param name="Local" value="class_simple_controller.html#a31ddc11100b66f86de5c65756606433c"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="maxMountRotation"><param name="Local" value="class_simple_controller.html#ab02ed3d9fa3ae79c6e6f2324a957dafb"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="maxSpeed"><param name="Local" value="class_simple_controller.html#a1a32c8c77aa8e6e0a8724becd665013a"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="maxSteerAngle"><param name="Local" value="class_simple_controller.html#ac22f2de2d36b348b224672033b211a19"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="mount"><param name="Local" value="class_simple_controller.html#ab8cd8da06ca72dac86817c25830523aa"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="speed"><param name="Local" value="class_simple_controller.html#a8146288dd059782ff659eee5194c078e"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="tank"><param name="Local" value="class_simple_controller.html#a36ea93e471504da2007474dd9cb9c824"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="turnSpeed"><param name="Local" value="class_simple_controller.html#a481c0a24a21c34c2190ca128b4d87cfd"><param name="ImageNumber" value="11"></OBJECT>
+                              </UL>
+                            </UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="TankHealth.cs"><param name="Local" value="_tank_health_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="TankHealth"><param name="Local" value="class_tank_health.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="TakeDamage"><param name="Local" value="class_tank_health.html#a5b4692ca0cdcd290c19819b612a1fb6a"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ExplosionPrefab"><param name="Local" value="class_tank_health.html#a5ef8047ad181f98b49f021dcb2a79eff"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_FillImage"><param name="Local" value="class_tank_health.html#afe7189f28749f37650eaee5bbe1e9569"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_FullHealthColor"><param name="Local" value="class_tank_health.html#a42ae2cdb01a927ac318e292a408ee530"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Slider"><param name="Local" value="class_tank_health.html#a4b41b54ea2d3515d6c258f2dfa352d91"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_StartingHealth"><param name="Local" value="class_tank_health.html#a61f61a506cd75b2382f40c87f376f547"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ZeroHealthColor"><param name="Local" value="class_tank_health.html#aa0c52687011855683ffb71b787f159fb"><param name="ImageNumber" value="11"></OBJECT>
+                              </UL>
+                            </UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="TankMovement.cs"><param name="Local" value="_tank_movement_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="TankMovement"><param name="Local" value="class_tank_movement.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_EngineDriving"><param name="Local" value="class_tank_movement.html#a1f8950f3ace7c6eb9db3245e56a3e242"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_EngineIdling"><param name="Local" value="class_tank_movement.html#afd7b9063830e3f36586d8f65ce9e9864"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_isGrounded"><param name="Local" value="class_tank_movement.html#aabbb207575a9a7e1402f8dedfe57a2ae"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MaxRay"><param name="Local" value="class_tank_movement.html#a127489016583e74eba8e51855d52140f"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MaxWheelAngle"><param name="Local" value="class_tank_movement.html#aa00410cb9946e3d519e7eb0c27a3f71e"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MinWheelAngle"><param name="Local" value="class_tank_movement.html#a272f5b92b7350a9ad9f45f5bd7fa873e"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MinWheelSpeed"><param name="Local" value="class_tank_movement.html#ab396d17831baf3a1f26d894b6c972595"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MovementAudio"><param name="Local" value="class_tank_movement.html#adeb10deeb3d19a4e09a373009472d30d"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_PitchRange"><param name="Local" value="class_tank_movement.html#ac40fed4b4da6dfb71113b1fe0061c251"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Speed"><param name="Local" value="class_tank_movement.html#a946b8dddff1ced5a2bc6e2c81734c9a9"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Torque"><param name="Local" value="class_tank_movement.html#a91715c98a7e32de422b88eb6d47f7b34"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_TurnSpeed"><param name="Local" value="class_tank_movement.html#a3d4a37dc23ba03bcd56c6272213e81e1"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_W_BL"><param name="Local" value="class_tank_movement.html#a4937ea53208a0c13fb66e10be5ddea1e"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_W_BR"><param name="Local" value="class_tank_movement.html#acb48d092541024d69905b0d29400b0ac"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_W_FL"><param name="Local" value="class_tank_movement.html#ab0123b63cc13e4df1e9012b797b1f6ae"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_W_FR"><param name="Local" value="class_tank_movement.html#ab9a83a1b293c87eacedd96ab8ecc6c97"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Wheel_BL"><param name="Local" value="class_tank_movement.html#a8cdcf38aa1a90dd677203e3c20d77dd5"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Wheel_BR"><param name="Local" value="class_tank_movement.html#a2502e9dc69516fb41e8781563c2d1cbe"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Wheel_FL"><param name="Local" value="class_tank_movement.html#ad429eeb7e51260ede34edd1497a5e746"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Wheel_FR"><param name="Local" value="class_tank_movement.html#ac1530da9ca85a2fc03ad0e157779b277"><param name="ImageNumber" value="11"></OBJECT>
+                              </UL>
+                            </UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="TankShooting.cs"><param name="Local" value="_tank_shooting_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="TankShooting"><param name="Local" value="class_tank_shooting.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_FireClip"><param name="Local" value="class_tank_shooting.html#a32f4525a7cb238b5684e8bcf3dca24fb"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_FireTransform"><param name="Local" value="class_tank_shooting.html#a11258331a4d05472ffc508152f8e10e0"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MaxChargeTime"><param name="Local" value="class_tank_shooting.html#af8d76f24ef06557eacf3d80cae349dee"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MaxLaunchForce"><param name="Local" value="class_tank_shooting.html#aec0f5624d699ed4a0c7f8b54a88fc1c7"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_MinLaunchForce"><param name="Local" value="class_tank_shooting.html#ae01a2b150c6391d6f9bdf626ee7e273b"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_PlayerNumber"><param name="Local" value="class_tank_shooting.html#afbdc9693b332517975e952436c04b6a0"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_Shell"><param name="Local" value="class_tank_shooting.html#ab574880baae316f960a2711a3f357001"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_ShootingAudio"><param name="Local" value="class_tank_shooting.html#a7d8d764d8c953938735573157284ac6a"><param name="ImageNumber" value="11"></OBJECT>
+                              </UL>
+                            </UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="TurretAim.cs"><param name="Local" value="_turret_aim_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="TurretAim"><param name="Local" value="class_turret_aim.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="Launch"><param name="Local" value="class_turret_aim.html#a0676e7bfdf3631856418337b19e9224d"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="AimPosition"><param name="Local" value="class_turret_aim.html#a194f5413aa939b8cbb8a5a9edf2c8660"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="DrawDebugArcs"><param name="Local" value="class_turret_aim.html#a58ca0c5ce58f7a29b44263efc23cc14f"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="DrawDebugRay"><param name="Local" value="class_turret_aim.html#abaf205533086a821c7d21c405134d1c0"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="ElevationSpeed"><param name="Local" value="class_turret_aim.html#ab6d11817dfff12c200f30a5b413922e1"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="IsIdle"><param name="Local" value="class_turret_aim.html#aeda88b1a392e0ce59baf5720a641a0d5"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="launchForce"><param name="Local" value="class_turret_aim.html#a37ec381a26ff942b851d343cad70aae6"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="LeftLimit"><param name="Local" value="class_turret_aim.html#af7cb89dae61664a964d7c4c036b93790"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="MaxDepression"><param name="Local" value="class_turret_aim.html#abd337edc783d31d7c2eee320d8fa9934"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="MaxElevation"><param name="Local" value="class_turret_aim.html#abf4a6733d71b76f4c4c8e51fac0d979b"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="RightLimit"><param name="Local" value="class_turret_aim.html#aa7ad1afe41386cc3b01ec42e150e767d"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="TraverseSpeed"><param name="Local" value="class_turret_aim.html#a0d95f826ffb966894820a781ea3fc04c"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="AngleToTarget"><param name="Local" value="class_turret_aim.html#ae9892ac1ac8c471d11d9a99c2849542c"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="HasLimitedTraverse"><param name="Local" value="class_turret_aim.html#ac4f7699c9a91fa48dd95b2f08cf03fd6"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="IsAimed"><param name="Local" value="class_turret_aim.html#a850d222091cdb64216aa2edc1297a1ba"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="IsTurretAtRest"><param name="Local" value="class_turret_aim.html#a1b0a3fd8f069d2364b60591ab3f57e26"><param name="ImageNumber" value="11"></OBJECT>
+                              </UL>
+                            </UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="TurretController.cs"><param name="Local" value="_turret_controller_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="TurretController"><param name="Local" value="class_turret_controller.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="TargetPoint"><param name="Local" value="class_turret_controller.html#ac7b9843264700d7841aa47017ccc494e"><param name="ImageNumber" value="11"></OBJECT>
+                              </UL>
+                            </UL>
+                          </UL>
+                        <LI><OBJECT type="text/sitemap"><param name="Name" value="UI"><param name="Local" value="dir_9354c1103dc3cd5fe1c6e909727e1b7f.html"><param name="ImageNumber" value="1"></OBJECT>
+                          <UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="UIDirectionControl.cs"><param name="Local" value="_u_i_direction_control_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="UIDirectionControl"><param name="Local" value="class_u_i_direction_control.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="m_UseRelativeRotation"><param name="Local" value="class_u_i_direction_control.html#a219ec5565829d998edb99068ce19c49c"><param name="ImageNumber" value="11"></OBJECT>
+                              </UL>
+                            </UL>
+                          <LI><OBJECT type="text/sitemap"><param name="Name" value="UIFollowCamera.cs"><param name="Local" value="_u_i_follow_camera_8cs.html"><param name="ImageNumber" value="11"></OBJECT>
+                            <UL>
+                            <LI><OBJECT type="text/sitemap"><param name="Name" value="UIFollowCamera"><param name="Local" value="class_u_i_follow_camera.html"><param name="ImageNumber" value="1"></OBJECT>
+                              <UL>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="playerCam"><param name="Local" value="class_u_i_follow_camera.html#abd70aa1abb4acc961761ab0116b8f3fc"><param name="ImageNumber" value="11"></OBJECT>
+                              <LI><OBJECT type="text/sitemap"><param name="Name" value="target"><param name="Local" value="class_u_i_follow_camera.html#a286876284df5954c8be56bea0bb075f7"><param name="ImageNumber" value="11"></OBJECT>
+                              </UL>
+                            </UL>
+                          </UL>
+                        </UL>
+                      </UL>
+                    </UL>
+                  </UL>
+                </UL>
+              </UL>
+            </UL>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
