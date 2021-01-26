@@ -31,6 +31,6 @@ Short Description of motivation
 * Feature 2
 
 # Credits
-Original turret by [brihernandez](https://github.com/brihernandez/GunTurrets).
-Island availible [here](https://assetstore.unity.com/packages/3d/environments/landscapes/free-island-collection-104753).
+* Original turret by [brihernandez](https://github.com/brihernandez/GunTurrets).
+* Island availible [here](https://assetstore.unity.com/packages/3d/environments/landscapes/free-island-collection-104753).
 
