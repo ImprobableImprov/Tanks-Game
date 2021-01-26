@@ -14,7 +14,7 @@ Short Description of motivation
 ![Tank Model](/img/TankModel.PNG "Model of the Tank")
 ![Follow Camera](/img/FollowCamera.PNG "Follow Camera")
 ![Terrain](/img/Terrain.PNG "Terrain")
-![Turret](/img/Turret.PNG "Turret")
+![Turret Model](/img/TurretModel.PNG "Turret Model")
 ![Overhead Camera](/img/OverheadCamera.PNG "Overhead Camera")
 
 **To see more** information about the game, including videos and images of gameplay, check out [my website](https://www.theshumaker.com/).
