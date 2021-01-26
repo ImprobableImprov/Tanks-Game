@@ -11,11 +11,11 @@ Short Description of motivation
 
 # Screenshots
 ![Documentation](/img/Documentation.png "HTML Documentation file sample")
-![Tank Model](/img/TankModel.png "Model of the Tank")
-![Follow Camera](/img/FollowCamera.png "Follow Camera")
-![Terrain](/img/Terrain.png "Terrain")
-![Turret](/img/Turret.png "Turret")
-![Overhead Camera](/img/OverheadCamera.png "Overhead Camera")
+![Tank Model](/img/TankModel.PNG "Model of the Tank")
+![Follow Camera](/img/FollowCamera.PNG "Follow Camera")
+![Terrain](/img/Terrain.PNG "Terrain")
+![Turret](/img/Turret.PNG "Turret")
+![Overhead Camera](/img/OverheadCamera.PNG "Overhead Camera")
 
 **To see more** information about the game, including videos and images of gameplay, check out [my website](https://www.theshumaker.com/).
 
