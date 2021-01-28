@@ -2,12 +2,19 @@
 
 Descrription of the game 
 
-* List of functionality
+* Single player gameplay
+* Tank moves as a car would
+* Large map to drive around and take our enemies
+* Stationary AI enemy turrets that track and fire at the player if within range
 
-# Motivation
+# Motivation and Learning
 Short Description of motivation 
 
-* List of Motivations
+* Learn to build a vehicle that simulates the motion and look of a car
+* Learn to use multiple cameras that follow the character as they move throughout the world
+* Learn to simulate projectile style shells that follow a natural arc to damage targets
+* Learn to automate documentation and create html to display the documentation using Doxygen
+* Laern to work under a deadline and develop on feedback
 
 # Screenshots
 ![Documentation](/img/Documentation.png "HTML Documentation file sample")
@@ -27,8 +34,11 @@ Short Description of motivation
 
 # Features
 
-* Feature 1
-* Feature 2
+* Tank's front wheels can turn while stationary and once movement starts the tank moves in the direction of the wheels as a car would
+* The Tank will self correct while turning if the player lets go of the controls
+* Tank's turret moves independently of the body
+* Camera switches between follow camera and overhead
+* Shell from turret travels in a mathematically correct arc (related to acceleration and gravity)
 
 # Credits
 * Original turret by [brihernandez](https://github.com/brihernandez/GunTurrets).
