@@ -1,6 +1,6 @@
 # Tanks-Game
 
-Descrription of the game 
+You play as a Tank and traverse a large island map. Your mission. Destory all the turrets on the island. Before they destory you that is.
 
 * Single player gameplay
 * Tank moves as a car would
@@ -8,7 +8,8 @@ Descrription of the game
 * Stationary AI enemy turrets that track and fire at the player if within range
 
 # Motivation and Learning
-Short Description of motivation 
+
+This is the first 3D game that I have developed. It's relatively simple but there are a lot of moving parts and pieces to learn. I wanted to make a game that worked start to finish and wanted to upscale from 2d develpment. This is my first shot.
 
 * Learn to build a vehicle that simulates the motion and look of a car
 * Learn to use multiple cameras that follow the character as they move throughout the world
